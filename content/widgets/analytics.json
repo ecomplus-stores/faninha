@@ -5,6 +5,7 @@
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "G-DBPBYQ49X9",
-    "googleAdsId": ""},
+    "googleAdsId": ""
+  },
   "headAppend": "src/append/head"
 }

@@ -31,6 +31,15 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }

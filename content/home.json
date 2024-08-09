@@ -10,7 +10,7 @@
       "title": "Lançamento",
       "headless": false,
       "limit": 15,
-      "page": 2
+      "page": ""
     },
     {
       "type": "collection-shelf",

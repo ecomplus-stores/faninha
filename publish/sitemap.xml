@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://faninha.netlify.app/calcas-jeans</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://faninha.netlify.app/blusas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://faninha.netlify.app/acessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://faninha.netlify.app/legging</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://faninha.netlify.app/vestidosmacacao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://faninha.netlify.app/legging-flanelada</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -128,36 +158,6 @@
     </url>
   
     <url>
-      <loc>https://faninha.netlify.app/calcas-jeans</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://faninha.netlify.app/blusas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://faninha.netlify.app/acessorios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://faninha.netlify.app/legging</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://faninha.netlify.app/vestidosmacacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://faninha.netlify.app/faninha-modas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -248,15 +248,15 @@
     </url>
   
     <url>
-      <loc>https://faninha.netlify.app/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://faninha.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://faninha.netlify.app/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
